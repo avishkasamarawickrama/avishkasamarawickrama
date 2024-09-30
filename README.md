@@ -13,6 +13,12 @@
 - 😄 Pronouns: she / her
 - ⚡ Fun fact:  I love turning complex problems into elegant, simple solutions, and I’m passionate about combining creativity with technical skills in my work.
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Undergraduate-Software%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-brightgreen?style=for-the-badge" />
+</p>
+
 <!---
 avishkasamarawickrama/avishkasamarawickrama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
