@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36C095&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Web+Developer+%7C+QA+Enthusiast;Passionate+About+Clean+Code+%26+UI%2FUX+Design" alt="Typing SVG" />
 </p>
 
+![Avishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishkasamarawickrama&show_icons=true&theme=radical)
 
 
 - 👋 Hi, I’m @avishkasamarawickrama
@@ -15,8 +16,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Undergraduate-Software%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Undergraduate-Software%20Engineering-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript-brightblue?style=for-the-badge" />
 </p>
 
 <!---
